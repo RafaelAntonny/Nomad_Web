@@ -29,6 +29,7 @@ section {
 
 section#about p {
     width: clamp(45ch, 50%, 75ch);
+    overflow-wrap: normal;
 }
 
 section#home {
